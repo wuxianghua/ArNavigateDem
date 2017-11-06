@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:gravity="center_vertical">
+        <view
+            android:layout_width="4dp"
+            android:layout_height="15dp"
+            android:background="@color/ngr_floor_item_text_selected"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="通用流程"
+            android:textSize="14dp"
+            android:textColor="@color/ngr_indicator_color_active"
+            android:layout_marginLeft="10dp"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/arrow_down_big"
+            android:layout_marginRight="20dp"/>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/ngr_mock_navi_btn_enable_false"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="146.5dp"
+
+        />-->
+    <ExpandableListView
+        android:id="@+id/tec_expandLvGroup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:groupIndicator="@null"
+        android:headerDividersEnabled="true"
+        android:scrollbars="none"/>
+</LinearLayout>

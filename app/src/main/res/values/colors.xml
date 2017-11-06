@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ngr_colorPrimary">#1fafe7</color>
+    <color name="ngr_colorPrimaryDark">#000</color>
+    <color name="ngr_colorAccent">#FF4081</color>
+    <color name="ngr_select_black">#36444f</color>
+    <color name="ngr_line">#aaaaaa</color>
+    <color name="ngr_txt9">#999999</color>
+    <color name="ngr_searchKeyWordColor">#45a5f2</color>
+    <color name="ngr_separate_line">#98c4c6cc</color>
+    <color name="ngr_destination_search_title_bar">#f2f2f2</color>
+    <color name="ngr_floor_item_selected">#E5F5FE</color>
+    <color name="ngr_floor_item_text_selected">#00A2F5</color>
+    <color name="ngr_floor_item_text_normal">#9098B8</color>
+    <color name="ngr_indicator_color_active">#00A2F5</color>
+    <color name="ngr_indicator_color_normal">#DCE2EE</color>
+    <color name="ngr_bg_map_view_tool_bar">#ffffff</color>
+    <color name="ngr_color_title_text">#333333</color>
+    <color name="tab_normal">#94999C</color>
+    <color name="tab_selected">#078BD7</color>
+    <color name="ngr_navi_btn_enable_true">#00A3F8</color>
+    <color name="ngr_navi_btn_enable_false">#CAE8F9</color>
+    <color name="ngr_mock_navi_btn_enable_true">#6E7690</color>
+    <color name="ngr_mock_navi_btn_enable_false">#DCE2EE</color>
+    <color name="ngr_search_result_item_selected">#f2f2f2</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="colorAccent">#000</color>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000</color>
+</resources>
